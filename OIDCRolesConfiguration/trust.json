@@ -12,10 +12,8 @@
                   "token.actions.githubusercontent.com:aud": "sts.amazonaws.com"
               },
               "StringLike": {
-                  "token.actions.githubusercontent.com:sub": [
-                      "repo:Kryvchenko/aws-oidc-workflow:pull_request",
-                      "repo:Kryvchenko/aws-oidc-workflow:ref:refs/heads/*"
-                  ]
+                  "token.actions.githubusercontent.com:sub": "repo:Kryvchenko/*"
+                  
               }
           }
       }
