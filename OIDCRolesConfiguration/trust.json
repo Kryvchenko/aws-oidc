@@ -13,8 +13,8 @@
               },
               "StringLike": {
                   "token.actions.githubusercontent.com:sub": [
-                      "repo:Kryvchenko/GitHub-Action-OIDCConnect:pull_request",
-                      "repo:Kryvchenko/GitHub-Action-OIDCConnect:ref:refs/heads/main"
+                      "repo:Kryvchenko/aws-oidc-workflow:pull_request",
+                      "repo:Kryvchenko/aws-oidc-workflow:ref:refs/heads/main"
                   ]
               }
           }
